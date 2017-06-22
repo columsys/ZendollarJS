@@ -7,6 +7,8 @@ A JavaScript Library
  - Edge
  - Safari
 
+暂时不支持IE浏览器，此bug有待改善
+
 ## 使用方法
 
 ```js
