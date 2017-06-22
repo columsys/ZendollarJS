@@ -1,6 +1,7 @@
-//Zendollarjs 
+//Zendollarjs; 
 //version 0.9;
 //author: rpsffx(郑约淼);
+//date: 2017.6.23;
 !(function(window, undefined) {
 	(function() {
 		setScript();
