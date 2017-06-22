@@ -1,4 +1,5 @@
-//Zendollarjs version 0.9;
+//Zendollarjs 
+//version 0.9;
 //author: rpsffx(郑约淼);
 !(function(window, undefined) {
 	(function() {
